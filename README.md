@@ -1,4 +1,4 @@
-# Cricket Data Analytics
+# Cricket Data Analysis
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -7,7 +7,7 @@
 
 ---
 
-This project utilizes cricket data analytics to evaluate player performances and select the best XI players in the world. The process involves collecting data from ESPN Cricinfo, cleaning, transforming, and modeling the data using Python, Power Query, and DAX, and finally visualizing insights through a dashboard built in Power BI.
+This project utilizes cricket data analysis to evaluate player performances and select the best XI players in the world. The process involves collecting data from ESPN Cricinfo, cleaning, transforming, and modeling the data using Python, Power Query, and DAX, and finally visualizing insights through a dashboard built in Power BI.
 
 ---
 
